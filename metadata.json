@@ -1,0 +1,6 @@
+{
+  "name": "BiblioUSMBA - Gestion Intelligent de Bibliothèque Universitaire",
+  "description": "Plateforme intelligente de gestion de la bibliothèque universitaire de l'Université Sidi Mohamed Ben Abdellah (USMBA). Authentification Google USMBA, scan OCR de carte d'étudiant, réservation automatique et gestion des exemplaires physiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
